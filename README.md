@@ -11,7 +11,7 @@ import Desenvolvedora from 'Luanda';
 class SobreMim extends Desenvolvedora {
   nome = 'Luanda Vital';
   area = 'Desenvolvimento de Software e Designer de Interfaces de Usuário (UI)';
-  graduação = 'Engenharia da Computação (UTFPR) - 5º período';
+  graduação = 'Engenharia da Computação (UTFPR) - 7º período';
 }
 
 class Skills extends Desenvolvedora {
@@ -32,7 +32,7 @@ class Skills extends Desenvolvedora {
   <img align="center" alt="HTML" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="40" width="53" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="StyledComponents" height="70" width="60" src="https://cubos.io/styled.6608fec9.png">
+  <img align="center" alt="StyledComponents" height="70" width="60" src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png">
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
   <img align="center" alt="Adobe XD" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png">
 </div>
