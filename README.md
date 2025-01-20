@@ -1,7 +1,7 @@
 
 ## Olá, eu sou a Luanda!
 
-Sou desenvolvedora de software e entusiasta da área de UX/UI. Além disso, também sou estudante de Engenharia da Computação na UTFPR e estou no 7° período.
+Sou desenvolvedora de software e entusiasta da área de UX/UI. Além disso, também sou estudante de Engenharia da Computação na UTFPR e estou no 9° período.
 
 #### Mais sobre mim
 
