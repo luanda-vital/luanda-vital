@@ -1,7 +1,7 @@
 
 ## Olá, eu sou a Luanda!
 
-Sou desenvolvedora de software e entusiasta da área de UX/UI. Além disso, também sou estudante de Engenharia da Computação na UTFPR e estou no 9° período.
+Sou desenvolvedora de software e entusiasta da área de UX/UI. Formada em Engenharia da Computação pela UTFPR.
 
 #### Mais sobre mim
 
@@ -11,7 +11,7 @@ import Desenvolvedora from 'Luanda';
 class SobreMim extends Desenvolvedora {
   nome = 'Luanda Vital';
   area = 'Desenvolvimento de Software e Designer de Interfaces de Usuário (UI)';
-  graduação = 'Engenharia da Computação (UTFPR) - 7º período';
+  graduação = 'Engenharia da Computação (UTFPR)';
 }
 
 class Skills extends Desenvolvedora {
@@ -40,7 +40,7 @@ class Skills extends Desenvolvedora {
 #### Entre em contato comigo
  
 <div> 
-  <a href = "mailto:luandavital@alunos.utfpr.edu.br">
+  <a href = "mailto:luandavital.pro@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/luanda-vital/" target="_blank">
