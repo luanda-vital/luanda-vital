@@ -20,7 +20,6 @@ class Skills extends Desenvolvedora {
   ferramentas = ['Figma', 'AdobeXD']
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanda-vital&layout=compact&theme=nord)
 
 #### Tecnologias e Ferramentas
 
